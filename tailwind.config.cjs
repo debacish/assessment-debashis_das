@@ -18,6 +18,7 @@ module.exports = {
         boxgray: "#D9D9D9",
         white: "#ffffff",
         greenbg: "#F0F5F5",
+        ctagreen: "#008080",
       },
       spacing: {
         // add custom spacings (outside of tailwind)
