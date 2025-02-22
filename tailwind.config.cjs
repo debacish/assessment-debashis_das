@@ -18,7 +18,7 @@ module.exports = {
         boxgray: "#D9D9D9",
         white: "#ffffff",
         greenbg: "#F0F5F5",
-        ctagreen: "#008080",
+        greencta: "#008080",
       },
       spacing: {
         // add custom spacings (outside of tailwind)
@@ -55,7 +55,6 @@ module.exports = {
         "5xl": "512px",
         "6xl": "576px",
         "7xl": "640px",
-        mb: "375px",
       }),
       minHeight: (theme) => ({
         ...theme("width"),
